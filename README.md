@@ -1,11 +1,3 @@
-# SB Admin rewritten in Angular8 and Bootstrap 4
-
-Simple Dashboard Admin App built using Angular 8 and Bootstrap 4
-
-This project is a port of the famous Free Admin Bootstrap Theme [SB Admin v8.0](http://startbootstrap.com/template-overviews/sb-admin-2/) to Angular8 Theme.
-
-Powered by [StartAngular](http://startangular.com/) & [StrapUI](http://strapui.com/)
-
 ## [Demo](http://rawgit.com/start-angular/SB-Admin-BS4-Angular-6/master/dist/)
 
 ## [SB Admin Material version](https://github.com/start-javascript/sb-admin-material)
@@ -26,8 +18,6 @@ Provides fast, reliable and extensible starter for the development of Angular pr
 *   Following the best practices.
 *   Ahead-of-Time compilation support.
 *   Official Angular i18n support.
-*   Production and development builds.
-*   Tree-Shaking production builds.
 
 ### How to start
 
